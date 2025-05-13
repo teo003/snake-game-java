@@ -28,11 +28,16 @@ This is a simple implementation of the classic Snake game, built entirely in Jav
 ```bash
 git clone https://github.com/teo003/snake-game-java.git
 cd snake-game-java
+```
+
+2. Compile the project.
+
+```bash
 javac SnakeGame.java
 java SnakeGame
 ```
 
-2. Use arrow keys to move.
+3. Use arrow keys to move.
 
 ## 🧠 Concepts Used
 - Java Swing & AWT for GUI rendering
